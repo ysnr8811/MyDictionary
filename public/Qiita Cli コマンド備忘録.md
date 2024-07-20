@@ -34,7 +34,7 @@ npx qiita publish 記事のファイルのベース名
 
 npx qiita publish --all
 
-#github actionsが動くはず
+# github actionsが動くはず
 
 上記のコマンド以外でも cliがきちんと機能していれば
 
