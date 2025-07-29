@@ -3,7 +3,6 @@ title: エンジニアにおすすめの本〜あたしいLinuxの教科書
 tags:
   - Linux
   - 初心者
-  - ポエム
   - 書籍紹介
 private: false
 updated_at: '2024-07-18T22:20:34+09:00'
